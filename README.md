@@ -28,7 +28,8 @@ The instructions for this mini project are divided into the following subsection
 
 	iii. The following image shows this category DataFrame:
 
-https://static.bc-edx.com/data/dl-1-2/m13/lms/img/category_DataFrame.png
+![image](https://github.com/pbansal181/Crowdfunding_ETL/assets/148804724/646c8eaf-b71b-4213-9162-442060fda9c9)
+
 
 2. Export the category DataFrame as category.csv and save it to your GitHub repository.
 
@@ -40,7 +41,8 @@ https://static.bc-edx.com/data/dl-1-2/m13/lms/img/category_DataFrame.png
 
 	iii. The following image shows this subcategory DataFrame:
 
-https://static.bc-edx.com/data/dl-1-2/m13/lms/img/subcategory_DataFrame.png
+![image](https://github.com/pbansal181/Crowdfunding_ETL/assets/148804724/73774ff7-637d-4d74-a2d5-b5cfd12725af)
+
 
 4. Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
@@ -78,7 +80,8 @@ https://static.bc-edx.com/data/dl-1-2/m13/lms/img/subcategory_DataFrame.png
 	
 	xv. The following image shows this campaign DataFrame:
 
-https://static.bc-edx.com/data/dl-1-2/m13/lms/img/campaign_DataFrame.png
+![image](https://github.com/pbansal181/Crowdfunding_ETL/assets/148804724/5c11e4cb-5e79-424b-b7db-054f599dd4b0)
+
 
 2. Export the campaign DataFrame as campaign.csv and save it
 
@@ -124,7 +127,8 @@ https://static.bc-edx.com/data/dl-1-2/m13/lms/img/campaign_DataFrame.png
 
 4. Check that your final DataFrame resembles the one in the following image:
 
-https://static.bc-edx.com/data/dl-1-2/m13/lms/img/contact_DataFrame_final.png
+![image](https://github.com/pbansal181/Crowdfunding_ETL/assets/148804724/918a6514-4400-42e2-b225-9f2bd7810195)
+
 
 **Create the Crowdfunding Database**
 
